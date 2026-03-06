@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build/artifacts
+dist/
+build/
+*.egg-info/
+*.log
+
+# Local secrets
+.env
+.env.*
+
+# Project data and generated experiment outputs
+data/raw/
+data/processed/
+data/experiments/
+data/experiments_v2*/
+data/results*/
+data/results_*/
+data/*tmp*/
+
+# Keep paper figures and markdown outputs tracked by default.

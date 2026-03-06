@@ -1,0 +1,16 @@
+# ============================================================================
+# NETCAUSALAI - CORE REQUIREMENTS (ONLY WHAT YOU NEED)
+# ============================================================================
+
+pandas
+numpy
+scapy
+tqdm
+networkx
+scikit-learn
+hdbscan
+umap-learn
+matplotlib
+seaborn
+joblib
+colorama
